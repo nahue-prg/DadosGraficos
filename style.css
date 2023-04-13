@@ -1,0 +1,21 @@
+#display{
+  width:200px;
+  height:200px;
+  margin:auto;
+  font-size: 2rem;
+  border:1px solid black;
+ margin-bottom: 200px;
+ color:black;
+}
+
+canvas{
+  margin:auto;
+  margin-top:60px;
+}
+h1{
+  text-align: center;
+}
+
+/* body{
+  background-color: ;
+} */
